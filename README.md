@@ -37,7 +37,7 @@ Comprehensive Islamic application with multiple features for daily Muslim life.
 
 ---
 
-### 🕌 [Tic Tac Toe App](https://github.com/Hassan9865/Tic-Tac-Toe-App.git) 
+### 🎮 [Tic Tac Toe App](https://github.com/Hassan9865/Tic-Tac-Toe-App.git) 
 Tic Tac Toe game designed with engaging Lottie animations, interactive sound effects, and clean game logic.
 - 🚀 Lottie Animated Splash Screen
 - 🔄 Real-Time Turn Indication (X & O)
@@ -95,15 +95,15 @@ Interactive quiz application for English language learning with performance trac
 - ✅ Progress analytics
 - ✅ User-friendly interface
 
-**Tech:** 'Dart' `Flutter` 
+**Tech:** `Dart` `Flutter` 
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 **Email:** syedhassanraza0311@gmail.com 
+- 📧 **Email:** [syedhassanraza0311@gmail.com ](mailto:syedhassanraza0311@gmail.com )
 - 💼 **LinkedIn:** [Hassan's LinkedIn](https://www.linkedin.com/in/syed-hassan-raza-809709220/)    
-- 🌐 **Portfolio:** https://syed-hassan-raza.vercel.app/
+- 🌐 **Portfolio:** [Hassan's Portfolio](https://syed-hassan-raza.vercel.app/)
 - 📱 **Play Store:** *Apps Coming Soon*
 
 ---
