@@ -45,7 +45,7 @@ Tic Tac Toe game designed with engaging Lottie animations, interactive sound eff
 - 🎆 Firework Animation on Win
 - 🔊 Sound Effects on Win & Draw
 
-**Tech:** `Flutter` 'Dart Language' 'Lottie (for animations)' 'audioplayers (for sound effects)'
+**Tech:** `Flutter` `Dart Language` `Lottie (for animations)` `audioplayers (for sound effects)`
 
 ---
 
