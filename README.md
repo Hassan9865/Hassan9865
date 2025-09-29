@@ -22,6 +22,49 @@
 
 ## 💼 Featured Projects
 
+### 🕌 [Islamic App](https://github.com/Hassan9865/Noor.git) 
+Comprehensive Islamic application with multiple features for daily Muslim life.
+- 🕰️ Daily Prayer Times
+- 📿 Digital Tasbih Counter
+- 📜 Hadith (Authentic collections)
+- 🤲 Daily Duas for reading
+- 🧾 6 Kalmas with translation
+- 🧮 Zakat Calculator
+- 🕋 Real-time Qibla Direction
+- 📖 Complete Quran
+
+**Tech:** `Flutter` `Stacked` 
+
+---
+
+### 🕌 [Tic Tac Toe App](https://github.com/Hassan9865/Tic-Tac-Toe-App.git) 
+Tic Tac Toe game designed with engaging Lottie animations, interactive sound effects, and clean game logic.
+- 🚀 Lottie Animated Splash Screen
+- 🔄 Real-Time Turn Indication (X & O)
+- 🧠 Instant Win or Draw Detection
+- 🎆 Firework Animation on Win
+- 🔊 Sound Effects on Win & Draw
+
+**Tech:** `Flutter` 'Dart Language' 'Lottie (for animations)' 'audioplayers (for sound effects)'
+
+---
+
+### 📱 [Social App](https://github.com/Hassan9865/Social-app.git)
+Social Media UI Kit built using Flutter and Stacked MVVM Architecture
+- ✅ Splash Screen
+- ✅ Login Screen
+- ✅ Signup Screen
+- ✅ Home Feed Page
+- ✅ Story View Page (Instagram-style full-screen stories)
+- ✅ Notification Page
+- ✅ Chat List Page
+- ✅ Chatting (Message) Page
+- ✅ Add Friend Page
+
+**Tech:** `Flutter` `Firebase` `Stacked` 
+
+---
+
 ### 📱 [ChitChat - Real-time Chat Application]()
 A feature-rich real-time chat application with modern UI and seamless user experience.
 - ✅ Firebase Authentication & Firestore
@@ -55,19 +98,6 @@ Interactive quiz application for English language learning with performance trac
 **Tech:** 'Dart' `Flutter` 
 
 ---
-
-### 🕌 [Islamic App]() 
-Comprehensive Islamic application with multiple features for daily Muslim life.
-- 📖 Quran Reader with bookmarks
-- 🕌 Prayer Times & Qibla Direction
-- 📿 Digital Tasbeeh Counter
-- 📜 Collection of Duas & Azkar
-- 🎨 Beautiful Islamic design
-
-**Tech:** `Flutter` `Stacked` 
-
----
-
 
 ## 📫 Let's Connect
 
