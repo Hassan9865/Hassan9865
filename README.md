@@ -4,19 +4,10 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Final Year Computer Science Student
+- 🎓 **BS Computer Science Graduate** (2025)
 - 🌱 Currently working on: **AI-Powered Fitness App** (Flutter + Bloc + ML)
 - 💡 Passionate about clean code, user experience, and scalable architecture
 - 🎯 Goal: To build impactful mobile applications and contribute to open-source
-
----
-
-## 🛠️ Tech Stack
-**Mobile Development:** Flutter, Dart  
-**State Management:** Bloc, Stacked,   
-**Backend & Databases:** Firebase, REST APIs, Hive, SQLite, SharedPrefrences  
-**Tools & Platforms:** Git, GitHub, VS Code, Android Studio  
-**Design:** Material Design, Custom UI/UX
 
 ---
 
@@ -27,9 +18,16 @@ Check out my live applications! Click on the badges or the links below to view t
 | App Name | Description | Download Link |
 | :--- | :--- | :--- |
 | 🕌 **Noor e Islam** | Comprehensive Islamic app with Prayer Times, Digital Tasbih, Quran, Hadith, Duas, 6 Kalmas, Zakat Calculator, and Qibla direction. | [![Google Play](https://img.shields.io/badge/Google_Play-Noor_e_Islam-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hassan.nooreislam) |
-| 💪 **FitPulse** | Your AI-powered fitness companion for tracking workouts, nutrition, and achieving your health goals. | [![Google Play](https://img.shields.io/badge/Google_Play-FitPulse-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hassan.fitpulse) |
+| 💪 **FitPulse** | Your fitness companion for tracking workouts, nutrition, and achieving your health goals. | [![Google Play](https://img.shields.io/badge/Google_Play-FitPulse-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hassan.fitpulse) |
 
-> **🚧 Note:** Make sure to replace `your.app.package.name.noor` and `your.app.package.name.fitpulse` with the actual package names of your apps from the Play Store URL.
+---
+
+## 🛠️ Tech Stack
+**Mobile Development:** Flutter, Dart  
+**State Management:** Bloc, Stacked,   
+**Backend & Databases:** Firebase, REST APIs, Hive, SQLite, SharedPrefrences  
+**Tools & Platforms:** Git, GitHub, VS Code, Android Studio  
+**Design:** Material Design, Custom UI/UX
 
 ---
 
@@ -117,7 +115,7 @@ Interactive quiz application for English language learning with performance trac
 - 📧 **Email:** [syedhassanraza0311@gmail.com ](mailto:syedhassanraza0311@gmail.com )
 - 💼 **LinkedIn:** [Hassan's LinkedIn](https://www.linkedin.com/in/syed-hassan-raza-809709220/)    
 - 🌐 **Portfolio:** [Hassan's Portfolio](https://syed-hassan-raza.vercel.app/)
-- 📱 **Play Store:** *Apps Coming Soon*
+- 📱 **Play Store:** [Play Store Apps](https://play.google.com/store/apps/developer?id=LogicDeCode)
 
 ---
 
