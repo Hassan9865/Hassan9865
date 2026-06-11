@@ -20,6 +20,19 @@
 
 ---
 
+## 📱 My Apps on Google Play Store
+
+Check out my live applications! Click on the badges or the links below to view them on the Play Store.
+
+| App Name | Description | Download Link |
+| :--- | :--- | :--- |
+| 🕌 **Noor e Islam** | Comprehensive Islamic app with Prayer Times, Digital Tasbih, Quran, Hadith, Duas, 6 Kalmas, Zakat Calculator, and Qibla direction. | [![Google Play](https://img.shields.io/badge/Google_Play-Noor_e_Islam-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hassan.nooreislam) |
+| 💪 **FitPulse** | Your AI-powered fitness companion for tracking workouts, nutrition, and achieving your health goals. | [![Google Play](https://img.shields.io/badge/Google_Play-FitPulse-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hassan.fitpulse) |
+
+> **🚧 Note:** Make sure to replace `your.app.package.name.noor` and `your.app.package.name.fitpulse` with the actual package names of your apps from the Play Store URL.
+
+---
+
 ## 💼 Featured Projects
 
 ### 🕌 [Islamic App](https://github.com/Hassan9865/Noor.git) 
